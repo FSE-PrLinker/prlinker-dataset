@@ -5,7 +5,7 @@ The folder "PRCluster" contains 8 subdirectories, the name of subdirectory corre
 
 For example, "google/ExoPlayer 9 13 53" means that [PR #9](https://github.com/google/ExoPlayer/pull/9), [PR #13](https://github.com/google/ExoPlayer/pull/13) and [PR #53](https://github.com/google/ExoPlayer/pull/53) are related.
 
-This is a temporary public link, used for ICSE review to obtain dataset for inspection, 
+This is a temporary public link, used for FSE review to obtain dataset for inspection, 
 and then we will open more details about dataset and corresponding code and tools, etc.
 
 
